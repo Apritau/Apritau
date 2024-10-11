@@ -51,7 +51,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Apritau&&show_icons=true&theme=default"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Apritau&&show_icons=true&theme=gruvbox_light"/>
   </a>
 
 </p>
@@ -82,7 +82,3 @@
 <h3 align="center">Made with ❤️ in China</h3>
 
 <h1 align='center'>🌼<i>Stay awesome!</i>🌼</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
