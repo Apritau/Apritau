@@ -34,27 +34,27 @@
 
  - 🥀 Learning Typescript & SQL
  
- - <i>with C#, Python, CCS and balabala.</i>
+ - <i>with C#, Python, CCS and balabala...</i>
    
  - 🔭 Look up at the stars, immerse in the universe😼
 
  - 📷 Loves to travel and wants to visit every corner of the world.
  
  - All About living life at its best. ❤
+
+<br />
+<br />
  
- <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
-   </p>
+### - My works...
 
 <!--  -->
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Apritau&&show_icons=true&theme=default"/>
   </a>
 
 </p>
-
 <br />
 
 ### - Languages and Tools...
@@ -74,29 +74,14 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-
-
- ### - What i do
-
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
    
 <br />
 
-<h2 align="center">🤝 Support</h2>
+<h3 align="center">💜 If you like my projects, Give them ⭐ and Share it with friends!</h3>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<h3 align="center">Made with ❤️ in China</h3>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in India</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>🌼<i>Stay awesome!</i>🌼</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
