@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://github.com/Apritau/Apritau/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+
+<div align="center">
    <h1>Hi there, I'm <a href="https://Apritau.codes">Apritau</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
 </div>
